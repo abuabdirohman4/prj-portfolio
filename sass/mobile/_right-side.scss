@@ -1,0 +1,25 @@
+.right-side {
+    background: #2A3A6B;
+    .cover-photo{
+        height: 240px;
+        overflow: hidden;
+        img {
+            display: block;
+            margin: 0 auto;
+            width: 30%;
+            height: auto;
+        }
+    }
+    .identity{
+        color: white;
+        display: block;
+        margin: 0 1rem;
+        h3 {
+            font-weight: bold;
+        }
+        p {
+            font-style: italic;
+        }
+    }
+    
+}

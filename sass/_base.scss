@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(287.4deg, rgba(86, 123, 255, 0.9) 0%, rgba(86, 123, 255, 0.75) 99.14%);
+    font-family: 'Poppins';
+    .wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        border-radius: 15px;
+        
+        @media screen and (min-width:768px) {
+            flex-wrap: nowrap;
+            flex-direction: unset;
+            overflow: hidden;
+            height: 84vh;
+            margin: 8vh;
+        }
+    }
+}
+

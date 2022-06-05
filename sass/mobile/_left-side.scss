@@ -1,0 +1,18 @@
+.left-side {
+    background-color: white;
+    .nav {
+        background-color: #F0EFEF;
+        .nav-item {
+            .nav-link {
+                height: 4rem;
+                color: black;
+                &.active {
+                    background-color: white;
+                    color: #6486FC;
+                    font-weight: 900;
+                    font-size: 18px;
+                }
+            }
+        }
+    }
+}
