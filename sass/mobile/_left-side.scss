@@ -4,13 +4,31 @@
         background-color: #F0EFEF;
         .nav-item {
             .nav-link {
-                height: 4rem;
+                height: 5rem;
                 color: black;
                 &.active {
                     background-color: white;
                     color: #6486FC;
                     font-weight: 900;
                     font-size: 18px;
+                }
+            }
+        }
+    }
+    .container {
+        min-height: 70vh;
+        .tab-content {
+            #pills-home {
+                color: #2A3A6B;
+                .container {
+                    position: relative;
+                    top: 5rem;
+                    h5 {
+                        font-weight: 900;
+                    }
+                    h1 {
+                        font-weight: 900;
+                    }
                 }
             }
         }

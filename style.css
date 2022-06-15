@@ -39,7 +39,7 @@ body .wrapper {
 }
 
 .left-side .nav .nav-item .nav-link {
-  height: 4rem;
+  height: 5rem;
   color: black;
 }
 
@@ -48,6 +48,27 @@ body .wrapper {
   color: #6486FC;
   font-weight: 900;
   font-size: 18px;
+}
+
+.left-side .container {
+  min-height: 70vh;
+}
+
+.left-side .container .tab-content #pills-home {
+  color: #2A3A6B;
+}
+
+.left-side .container .tab-content #pills-home .container {
+  position: relative;
+  top: 5rem;
+}
+
+.left-side .container .tab-content #pills-home .container h5 {
+  font-weight: 900;
+}
+
+.left-side .container .tab-content #pills-home .container h1 {
+  font-weight: 900;
 }
 
 .right-side {
@@ -62,7 +83,6 @@ body .wrapper {
 .right-side .cover-photo img {
   display: block;
   margin: 0 auto;
-  width: 30%;
   height: auto;
 }
 
