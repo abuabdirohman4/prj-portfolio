@@ -1,7 +1,3 @@
-[submodule "portfolio-server-tall"]
-	path = portfolio-server-tall
-	url = git@github.com:abuabdirohman4/portfolio-server-tall.git
-	branch = master
 [submodule "portfolio-client-react-ts-tailwind"]
 	path = portfolio-client-react-ts-tailwind
 	url = https://github.com/abuabdirohman4/portfolio-client-react-ts-tailwind
