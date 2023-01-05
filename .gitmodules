@@ -2,3 +2,11 @@
 	path = portfolio-client-react-ts-tailwind
 	url = https://github.com/abuabdirohman4/portfolio-client-react-ts-tailwind
 	branch = master
+[submodule "portfolio-client-vue-tailwind"]
+	path = portfolio-client-vue-tailwind
+	url = git@github.com:abuabdirohman4/portfolio-client-vue-tailwind.git
+	branch = master
+[submodule "portfolio-client-react-tailwind"]
+	path = portfolio-client-react-tailwind
+	url = git@github.com:abuabdirohman4/portfolio-client-react-tailwind.git
+	branch = master
