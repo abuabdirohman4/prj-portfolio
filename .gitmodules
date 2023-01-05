@@ -2,3 +2,7 @@
 	path = portfolio-client-react-tailwind
 	url = git@github.com:abuabdirohman4/portfolio-client-react-tailwind.git
 	branch = master
+[submodule "portfolio-client-react-ts-tailwind"]
+	path = portfolio-client-react-ts-tailwind
+	url = git@github.com:abuabdirohman4/portfolio-client-react-ts-tailwind.git
+	branch = master
