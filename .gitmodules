@@ -10,3 +10,7 @@
 	path = portfolio-client-vue-tailwind
 	url = git@github.com:abuabdirohman4/portfolio-client-vue-tailwind.git
 	branch = master
+[submodule "portfolio-client-tailwind-css"]
+	path = portfolio-client-tailwind-css
+	url = git@github.com:abuabdirohman4/portfolio-client-tailwind-css.git
+	branch = master
