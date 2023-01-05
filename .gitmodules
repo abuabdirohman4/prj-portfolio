@@ -14,3 +14,7 @@
 	path = portfolio-client-tailwind-css
 	url = git@github.com:abuabdirohman4/portfolio-client-tailwind-css.git
 	branch = master
+[submodule "portoflio-server-tall"]
+	path = portoflio-server-tall
+	url = git@github.com:abuabdirohman4/portoflio-server-tall.git
+	branch = master
