@@ -1,0 +1,4 @@
+[submodule "portfolio-client-react-tailwind"]
+	path = portfolio-client-react-tailwind
+	url = git@github.com:abuabdirohman4/portfolio-client-react-tailwind.git
+	branch = master
