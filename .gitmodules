@@ -1,6 +1,6 @@
-[submodule "portoflio-server-tall"]
-	path = portoflio-server-tall
-	url = git@github.com:abuabdirohman4/portoflio-server-tall.git
+[submodule "portfolio-server-tall"]
+	path = portfolio-server-tall
+	url = git@github.com:abuabdirohman4/portfolio-server-tall.git
 	branch = master
 [submodule "portfolio-client-react-ts-tailwind"]
 	path = portfolio-client-react-ts-tailwind
