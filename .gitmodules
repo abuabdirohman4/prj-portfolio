@@ -10,3 +10,6 @@
 	path = portfolio-client-react-tailwind
 	url = git@github.com:abuabdirohman4/portfolio-client-react-tailwind.git
 	branch = master
+[submodule "portfolio-server-laravel-inertia-react"]
+	path = portfolio-server-laravel-inertia-react
+	url = git@github.com:abuabdirohman4/portfolio-server-laravel-inertia-react.git
