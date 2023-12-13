@@ -13,3 +13,6 @@
 [submodule "portfolio-server-laravel-inertia-react"]
 	path = portfolio-server-laravel-inertia-react
 	url = git@github.com:abuabdirohman4/portfolio-server-laravel-inertia-react.git
+[submodule "portfolio-server-laravel-jetstream"]
+	path = portfolio-server-laravel-jetstream
+	url = git@github.com:abuabdirohman4/portfolio-server-laravel-jetstream.git
