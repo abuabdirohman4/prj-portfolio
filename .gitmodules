@@ -16,6 +16,6 @@
 [submodule "portfolio-server-laravel-jetstream"]
 	path = portfolio-server-laravel-jetstream
 	url = git@github.com:abuabdirohman4/portfolio-server-laravel-jetstream.git
-[submodule "protfolio-fullstack-next"]
-	path = protfolio-fullstack-next
-	url = https://github.com/abuabdirohman4/protfolio-fullstack-next.git
+[submodule "portfolio-fullstack-next"]
+	path = portfolio-fullstack-next
+	url = https://github.com/abuabdirohman4/portfolio-fullstack-next.git
